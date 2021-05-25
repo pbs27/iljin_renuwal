@@ -565,16 +565,18 @@ legend{
 .info1 {
     display: flex;
     font-size: 14px;
-    border-bottom: 1px solid #ddd;
 }
 .adr {
     width: 433px;
+    padding : 2px 0;
 }
 .tel {
     width: 160px;
+    padding : 2px 0;
 }
 .fax {
     width: 150px;
+    padding : 2px 0;
 }
 .copyright {
     font-size: 13px;
